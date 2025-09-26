@@ -13,7 +13,7 @@ body {
 
 .navbar {
   position: fixed;
-  top: -80px; /* Start hidden for animation */
+  top: -80px; 
   left: 0;
   width: 100%;
   background: #222;
@@ -74,5 +74,6 @@ body {
   justify-content: center;
   align-items: center;
   padding: 50px;
-  opacity: 0; /* Start hidden for scroll animation */
+  opacity: 0;
+
 }
